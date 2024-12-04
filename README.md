@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sw4u617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sw4u617" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Avdhoot Gole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avdhoot gole" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/Avdhoot Gole](https://www.linkedin.com/in/avdhoot-gole-815300258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avdhoot gole" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27507734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27507734" height="30" width="40" /></a>
 </p>
 

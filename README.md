@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avdhoot Gole</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-- 🔭 I’m currently working on [Chatting application](https://github.com/AG1713/Chat-Application.git)
+- 🔭 I’m currently working on [Expense Tracker](https://github.com/AG1713/Expense-Tracker.git)
 
-- 🌱 I’m currently learning **Android Development and Spring Boot**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 📫 How to reach me **avdhootgole@gmail.com**
 
